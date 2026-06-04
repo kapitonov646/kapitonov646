@@ -3,7 +3,7 @@
 </div>
 
 ## Hi 👋, I'm Artem!
-I'm an 18-year-old backend developer passionate about crafting scalable and efficient systems. I thrive on tackling complex challenges and delving into the latest technologies. I'm constantly learning and exploring new tools and techniques to improve my skills.
+I'm an 19-year-old backend developer passionate about crafting scalable and efficient systems. I thrive on tackling complex challenges and delving into the latest technologies. I'm constantly learning and exploring new tools and techniques to improve my skills.
 
 ## Tech Stack 🚀
 
