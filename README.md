@@ -10,7 +10,7 @@
 
 <a href="https://t.me/kapitonov646"><img src="https://raw.githubusercontent.com/kapitonov646/kapitonov646/main/assets/badge-telegram.svg" alt="Telegram" height="28" /></a>
 <a href="mailto:kapitonov646.a@gmail.com"><img src="https://raw.githubusercontent.com/kapitonov646/kapitonov646/main/assets/badge-gmail.svg" alt="Email" height="28" /></a>
-<a href="https://github.com/kapitonov646/kapitonov646/blob/main/Resume.pdf"><img src="https://raw.githubusercontent.com/kapitonov646/kapitonov646/main/assets/badge-resume.svg" alt="Resume" height="28" /></a>
+<a href="https://docs.google.com/document/d/1z9rJ08V-CoQrG4QtK5E805E5-m2duXuQso7gQyyXNWM/edit?usp=sharing"><img src="https://raw.githubusercontent.com/kapitonov646/kapitonov646/main/assets/badge-resume.svg" alt="Resume" height="28" /></a>
 <a href="https://github.com/kapitonov646"><img src="https://raw.githubusercontent.com/kapitonov646/kapitonov646/main/assets/badge-github.svg" alt="GitHub" height="28" /></a>
 <img src="https://raw.githubusercontent.com/kapitonov646/kapitonov646/main/assets/badge-location.svg" alt="Saint Petersburg" height="28" />
 
